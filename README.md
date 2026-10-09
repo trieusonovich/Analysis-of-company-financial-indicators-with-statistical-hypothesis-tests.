@@ -103,5 +103,3 @@ Nguyen Dinh Trieu
 Economics (Analytical Economics and Econometrics)
 
 trieu31072004@gmail.com
-
-## Repository Structure
